@@ -1,0 +1,68 @@
+.gaming__container{
+  max-width: 1440px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+.gaming__img-block{
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+}
+
+.gaming__content{
+  padding-top: 124px;
+  margin-right: 94px;
+}
+
+.gaming__sentence{
+  font-family: 'Orbitron';
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+text-transform: uppercase;
+color: #57B8FF;
+}
+
+.gaming__cont{
+  display: flex;
+  align-items: center;
+}
+
+.gaming__title{
+  max-width: 684px;
+  font-family: 'Orbitron';
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: capitalize;
+color: #FFFFFF;
+margin-top: 11px;
+margin-bottom: 38px;
+}
+
+.gaming__text{
+  max-width: 721px;
+  font-family: 'Orbitron';
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color: rgba(223, 223, 223, 0.8);
+margin-bottom: 54px;
+}
+
+.gaming__btn{
+  font-family: 'Orbitron';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  padding: 21px 34px;
+  background: #57B8FF;
+  border-radius: 10px;
+}
+
+.gaming__img-block1{
+  padding-top: 88px;
+}

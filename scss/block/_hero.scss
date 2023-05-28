@@ -1,0 +1,80 @@
+
+.hero__wrapper{
+  padding-top: 215px;  
+  display: flex;
+  align-items: center;
+}
+.hero__container{
+  max-width: 1440px;
+  background: linear-gradient(
+    to right,
+    black 0%,
+    black 50%,
+    #57B8FF 50%,
+    #57B8FF 100%,
+  );
+
+}
+
+.hero__img{
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}
+
+.hero__sentence{
+  font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+text-transform: uppercase;
+color: #57B8FF;
+}
+.hero__meaner{
+  display: flex;
+  align-items: center;
+}
+
+.hero__title{
+   max-width: 656px;
+  font-weight: 400;
+font-size: 72px;
+line-height: 86px;
+text-transform: capitalize;
+color: #FFFFFF;
+margin-top: 14px;
+margin-bottom: 45px;
+}
+
+.hero__text{
+  max-width: 615px;
+  font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #999999;
+margin-bottom: 53px;
+}
+
+.hero__btn3{
+  font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+padding: 21px 34px;
+text-transform: capitalize;
+color: #FFFFFF;
+background: #57B8FF;
+cursor: pointer;
+border-radius: 10px;
+}
+
+.hero__word{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #FFFFFF;
+  margin-left: 40px;
+  cursor: pointer;
+}
+
+.hero__btns2{
+  padding-bottom: 250px;
+}

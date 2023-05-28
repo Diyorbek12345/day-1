@@ -1,0 +1,42 @@
+.sponsors__container{
+  background-color: #FDD04A;
+  max-width: 1440px;
+}
+
+.sponsors__title{
+  font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+text-transform: capitalize;
+color: #222730;
+padding-top: 128px;
+}
+
+.sponsors-img-block{
+  width: 200px;
+ margin-left: 610px;
+ margin-top: 5px;
+ margin-bottom: 27px;
+}
+
+.sponsors__text{
+  max-width: 576px;
+  font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #555555;
+margin: 0 auto;
+margin-bottom: 41px;
+}
+
+.sponsors__list{
+  display: flex;
+  align-items: center;
+  padding-bottom: 128px;
+
+}
+.sponsors__item{
+  margin-left: 37px;
+}
